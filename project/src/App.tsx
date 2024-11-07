@@ -73,9 +73,9 @@ export default function App() {
         <div className="text-center mb-12">
   <div className="flex items-center justify-center gap-3 mb-2">
     <img 
-      src="/public/logo.svg" 
+      src="/logo.svg" 
       alt="Shariah Productivity Logo" 
-      className="h-5 w-5" // Adjust size as needed
+      className="h-12 w-12" // Adjust size as needed
     />
     <h1 className="text-4xl font-bold text-gray-900">
       Shariah Productivity App
