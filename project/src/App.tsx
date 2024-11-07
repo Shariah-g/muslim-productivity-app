@@ -75,7 +75,7 @@ export default function App() {
     <img 
       src="/logo.svg" 
       alt="Shariah Productivity Logo" 
-      className="h-17 w-17" // Adjust size as needed
+      className="h-13 w-13" // Adjust size as needed
     />
     <h1 className="text-4xl font-bold text-gray-900">
       Shariah Productivity App
